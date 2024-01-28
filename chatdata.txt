@@ -1,0 +1,4 @@
+Friend 1:Hello
+:How are you?
+Friend 2:Hello
+:I am good wbu?
